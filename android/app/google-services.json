@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "212829455347",
+    "firebase_url": "https://boomlak-1f44d.firebaseio.com",
+    "project_id": "boomlak-1f44d",
+    "storage_bucket": "boomlak-1f44d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212829455347:android:2fa2117d9503746d248886",
+        "android_client_info": {
+          "package_name": "com.amlakkiran"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "212829455347-jg3ghnhrblp7pkv6eo60p5k4unvn4jb0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.amlakkiran",
+            "certificate_hash": "6a80cfe6f3a904291e83c091475aeb7c4a173cec"
+          }
+        },
+        {
+          "client_id": "212829455347-v2du2iq9jje643h73lf80j4nsckcr62h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFyf25Rr3HSLOynXTea_ilpuqpjAX5qbk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "212829455347-v2du2iq9jje643h73lf80j4nsckcr62h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
